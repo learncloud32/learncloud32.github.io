@@ -1,0 +1,9 @@
+span,a{
+    font-family: 'Ubuntu Mono', monospace;
+}
+.soon{
+    margin-top: 40px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
